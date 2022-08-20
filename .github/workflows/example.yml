@@ -9,8 +9,8 @@ on:
 
 
 env:
-  api_id: 1170144
-  api_hash: '7cf4f6769b5cfcd1c3b7bd645779c634'
+  api_id: 10656461
+  api_hash: '0fec7bd2be85dc14cd7943be280d60d1'
   session: ${{ secrets.session }}
   redis_uri: ${{ secrets.redis_uri }}
   redis_password: ${{ secrets.redis_password }}
